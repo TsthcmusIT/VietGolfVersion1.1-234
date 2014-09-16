@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>email</key>
+		<string>Unknown@gmail.com</string>
+		<key>password</key>
+		<string>123456</string>
+		<key>fullname</key>
+		<string>Unknown</string>
+		<key>usertype</key>
+		<string>Athlete</string>
+		<key>gender</key>
+		<string>Nam</string>
+		<key>birthday</key>
+		<string>24/11/1991</string>
+		<key>city</key>
+		<string>Ho Chi Minh city</string>
+		<key>country</key>
+		<string>Vietnam</string>
+		<key>status</key>
+		<false/>
+		<key>numoffavorited</key>
+		<integer>0</integer>
+		<key>numofpublic</key>
+		<integer>0</integer>
+		<key>numoflike</key>
+		<integer>0</integer>
+		<key>allownotification</key>
+		<true/>
+		<key>allowupdate</key>
+		<true/>
+		<key>image</key>
+		<string>IconUserDefault.png</string>
+	</dict>
+</array>
+</plist>

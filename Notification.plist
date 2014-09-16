@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>title</key>
+		<string>Welcome to VietGolf app!</string>
+		<key>link</key>
+		<string>http://www.vietgolfvn.com/</string>
+		<key>checked</key>
+		<false/>
+		<key>time</key>
+		<date>2014-07-04T17:18:20Z</date>
+	</dict>
+</array>
+</plist>

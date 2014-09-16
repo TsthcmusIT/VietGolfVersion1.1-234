@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>0</integer>
+		<key>path</key>
+		<string></string>
+		<key>pathcompare</key>
+		<string>nothing</string>
+		<key>videotype</key>
+		<string>Record</string>
+		<key>owner</key>
+		<string>Unknown</string>
+		<key>golftree</key>
+		<string>Driver</string>
+		<key>voice</key>
+		<false/>
+		<key>favorited</key>
+		<false/>
+		<key>posted</key>
+		<false/>
+		<key>time</key>
+		<date>2014-06-18T03:12:00Z</date>
+		<key>prepare</key>
+		<false/>
+		<key>thumnail</key>
+		<string>http</string>
+	</dict>
+</array>
+</plist>

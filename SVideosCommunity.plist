@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>id</key>
+            <integer>-1</integer>
+            <key>path</key>
+            <string>...</string>
+            <key>thumnail</key>
+            <string>...</string>
+            <key>link</key>
+            <string>http://vietgolfvn.com</string>
+            <key>golftree</key>
+            <string>7 Iron</string>
+            <key>owner</key>
+            <string>Me</string>
+            <key>time</key>
+            <date>2014-07-13T05:41:28Z</date>
+            <key>like</key>
+            <integer>0</integer>
+            <key>liked</key>
+            <false/>
+        </dict>
+    </array>
+</plist>
